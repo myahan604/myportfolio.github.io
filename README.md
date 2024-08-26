@@ -1,1 +1,4 @@
-# myportfolio.github.io
+# Machine Learning Engineer
+### Education
+CSE, BSc
+### Projects
